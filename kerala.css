@@ -120,7 +120,7 @@ box-shadow:
 .tvm-first-sec
 {
 position: relative;
-    background: url(/images/Trivandrum1.jpg) center/cover no-repeat;
+    background: url('../images/Trivandrum1.jpg') center/cover no-repeat;
     height: 450px;
     display: flex;
     align-items: center;
@@ -207,7 +207,7 @@ position: relative;
 /* Kollam.html */
 
 .kol-first-sec{
-    background: url(/images/Kollam.jpg) center/cover no-repeat;
+    background: url('../images/Kollam.jpg') center/cover no-repeat;
     height: 450px;
     display: flex;
     align-items: center;
@@ -235,7 +235,7 @@ position: relative;
 /* Pathanam.html */
 
 .ptam-first-sec{
-     background: url(/images/Pathenamtitta.jpg) center/cover no-repeat;
+     background: url('../images/Pathenamtitta.jpg') center/cover no-repeat;
     height: 450px;
     display: flex;
     align-items: center;
@@ -258,7 +258,7 @@ position: relative;
 
 /* alappuzha.html */
 .alap-first-sec{
-     background: url(/images/Alappuzha.jpg) center/cover no-repeat;
+     background: url('../images/Alappuzha.jpg') center/cover no-repeat;
     height: 450px;
     display: flex;
     align-items: center;
@@ -281,7 +281,7 @@ position: relative;
 
 /* Kottayam.html */
 .ktm-first-sec{
-    background: url(/images/Kottayam.jpg) center/cover no-repeat;
+    background: url('../images/Kottayam.jpg') center/cover no-repeat;
     height: 450px;
     display: flex;
     align-items: center;
